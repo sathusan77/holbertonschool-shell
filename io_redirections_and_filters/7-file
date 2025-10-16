@@ -1,3 +1,1 @@
 #!/bin/bash
-filename=$'*\\'"'"'Best School"'"'"'\\*$\?\*\*\*\*\*:)'  # nom exact
-printf "Best School\n" > "$filename"
