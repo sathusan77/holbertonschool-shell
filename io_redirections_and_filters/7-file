@@ -1,3 +1,2 @@
 #!/bin/bash
-filename=$'*\\\'"'"'Best School"'"'"'\\*$?*****:)'
-printf "Best School\n" > "$filename"
+filename=$'*\\\'"'"'Best School"'"'"'\\*$?*****:)'; printf "Best School\n" > "$filename"
